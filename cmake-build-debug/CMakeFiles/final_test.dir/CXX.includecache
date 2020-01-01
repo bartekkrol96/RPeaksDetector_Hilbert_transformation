@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/b/CLionProjects/final_test/main.cpp
+libalglib/stdafx.h
+/home/b/CLionProjects/final_test/libalglib/stdafx.h
+stdlib.h
+-
+stdio.h
+-
+math.h
+-
+libalglib/fasttransforms.h
+/home/b/CLionProjects/final_test/libalglib/fasttransforms.h
+complex
+-
+cmath
+-
+algorithm
+-
+numeric
+-
+wfdb/wfdb.h
+-
+
